@@ -1,5 +1,9 @@
 # IPv6 ACL Configuration
 
+![Extended IPv4 ACL](./IPv4-Extended-ACL.png)  
+*Figure 1: Overview of ACL placement in network topology*
+
+
 ## Basic Router Configuration
 
 ### R1
