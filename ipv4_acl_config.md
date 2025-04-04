@@ -1,5 +1,9 @@
 # IPv4 ACL Configuration
 
+![Standard IPv4 ACL](./IPv4-Standard-ACL.png)  
+*Figure 1: Overview of ACL placement in network topology*
+
+
 ## Basic Router Configuration
 
 ### R0
